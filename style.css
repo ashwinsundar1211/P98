@@ -1,0 +1,25 @@
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 400px;
+}
+#start-btn
+{
+    width: 6%;
+    background-color: lightgreen;
+    border-radius: 10px;
+    height: 5%;
+}
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+body{
+  background-color: aqua;
+}
